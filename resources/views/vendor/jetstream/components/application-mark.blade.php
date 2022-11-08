@@ -1,4 +1,8 @@
 <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" {{ $attributes }}>
-  <path d="M11.39 44.428C4.557 40.198 0 32.632 0 24 0 10.745 10.745 0 24 0a23.891 23.891 0 0113.997 4.502c-.2 17.907-11.097 33.245-26.602 39.926z" fill="#6875F5"/>
+
+ 
+  <img src="/images/aaa.png" alt="my name" width="50" 
+  style="padding-bottom: 35px;">
+
   <path d="" fill="#6875F5"/>
 </svg>
